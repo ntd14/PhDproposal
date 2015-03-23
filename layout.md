@@ -92,3 +92,4 @@ work6.tex
 work7.tex
 work8.tex
 work9.tex
+work10.tex
