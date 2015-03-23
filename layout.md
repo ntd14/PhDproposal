@@ -84,3 +84,4 @@ GS60.tex
 GS61.tex
 work.tex
 work1.tex
+work2.tex
