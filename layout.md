@@ -116,3 +116,4 @@ contribution.tex
 contribution1.tex
 Costs.tex
 Timeline.tex
+HS.tex
