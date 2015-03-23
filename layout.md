@@ -1,4 +1,3 @@
-Summary.tex
 Abstract.tex
 intro.tex
 Wood structure and formation.tex
