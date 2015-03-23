@@ -23,3 +23,4 @@ intro16.tex
 GS.tex
 GS1.tex
 GS2.tex
+GS3.tex
