@@ -30,3 +30,4 @@ GS6.tex
 GS7.tex
 GS8.tex
 GS9.tex
+GS10.tex
