@@ -80,3 +80,4 @@ GS56.tex
 GS57.tex
 GS58.tex
 GS59.tex
+GS60.tex
