@@ -20,3 +20,4 @@ intro13.tex
 intro14.tex
 intro15.tex
 intro16.tex
+GS.tex
