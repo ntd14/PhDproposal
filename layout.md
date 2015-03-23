@@ -117,3 +117,4 @@ contribution1.tex
 Costs.tex
 Timeline.tex
 HS.tex
+Proposed Chapters.tex
