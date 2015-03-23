@@ -26,3 +26,4 @@ GS2.tex
 GS3.tex
 GS4.tex
 GS5.tex
+GS6.tex
