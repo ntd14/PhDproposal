@@ -28,3 +28,4 @@ GS4.tex
 GS5.tex
 GS6.tex
 GS7.tex
+GS8.tex
