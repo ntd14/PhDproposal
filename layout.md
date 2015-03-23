@@ -46,3 +46,4 @@ GS22.tex
 GS23.tex
 GS24.tex
 GS25.tex
+GS26.tex
