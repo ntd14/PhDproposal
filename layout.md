@@ -62,3 +62,4 @@ GS38.tex
 GS39.tex
 GS40.tex
 GS41.tex
+GS42.tex
