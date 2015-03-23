@@ -9,3 +9,4 @@ intro2.tex
 intro3.tex
 intro4.tex
 intro5.tex
+intro6.tex
