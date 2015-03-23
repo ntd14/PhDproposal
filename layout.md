@@ -72,3 +72,4 @@ GS48.tex
 GS49.tex
 GS50.tex
 GS51.tex
+GS52.tex
