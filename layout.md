@@ -48,3 +48,4 @@ GS24.tex
 GS25.tex
 GS26.tex
 GS27.tex
+GS28.tex
