@@ -108,3 +108,4 @@ work22.tex
 work23.tex
 work24.tex
 work25.tex
+GS62.tex
