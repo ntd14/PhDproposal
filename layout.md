@@ -42,3 +42,4 @@ GS18.tex
 GS19.tex
 GS20.tex
 GS21.tex
+GS22.tex
