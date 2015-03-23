@@ -110,3 +110,4 @@ work24.tex
 work25.tex
 GS62.tex
 work26.tex
+work27.tex
