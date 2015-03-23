@@ -24,3 +24,4 @@ GS.tex
 GS1.tex
 GS2.tex
 GS3.tex
+GS4.tex
