@@ -104,7 +104,6 @@ work24.tex
 work25.tex
 GS62.tex
 work26.tex
-work27.tex
 objectives.tex
 contribution.tex
 contribution1.tex
