@@ -56,7 +56,6 @@ GS39.tex
 GS41.tex
 GS42.tex
 GS43.tex
-GS44.tex
 GS47.tex
 GS48.tex
 GS49.tex
@@ -64,6 +63,7 @@ GS37.tex
 GS40.tex
 GS50.tex
 GS51.tex
+GS44.tex
 GS45.tex
 GS46.tex
 GS52.tex
