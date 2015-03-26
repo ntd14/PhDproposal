@@ -51,7 +51,6 @@ GS33.tex
 GS34.tex
 GS35.tex
 GS36.tex
-GS37.tex
 GS38.tex
 GS39.tex
 GS40.tex
