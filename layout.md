@@ -7,7 +7,6 @@ intro5.tex
 intro6.tex
 intro7.tex
 intro8.tex
-intro9.tex
 intro10.tex
 intro11.tex
 intro12.tex
