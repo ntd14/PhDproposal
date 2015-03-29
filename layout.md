@@ -35,7 +35,6 @@ GS17.tex
 GS18.tex
 GS19.tex
 GS21.tex
-GS22.tex
 GS23.tex
 GS24.tex
 GS25.tex
