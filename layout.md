@@ -70,7 +70,6 @@ GS46.tex
 GS52.tex
 GS53.tex
 GS54.tex
-GS55.tex
 GS56.tex
 GS58.tex
 GS59.tex
