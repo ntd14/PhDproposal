@@ -29,7 +29,6 @@ GS11.tex
 GS12.tex
 GS13.tex
 GS14.tex
-GS16.tex
 GS17.tex
 GS18.tex
 GS19.tex
