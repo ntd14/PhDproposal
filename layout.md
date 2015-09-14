@@ -109,3 +109,4 @@ HS.tex
 Proposed Chapters.tex
 Work underway.tex
 Results to date.tex
+pmb82.tex
