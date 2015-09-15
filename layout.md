@@ -118,5 +118,4 @@ pmb86.tex
 pmb87.tex
 figures/strains/strains.jpg
 pmb881.tex
-pmb89.tex
 pmb891.tex
